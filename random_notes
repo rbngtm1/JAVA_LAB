@@ -1,0 +1,17 @@
+array is non-premitive data type and works as reference variable
+
+int[] a = new int[4]
+
+a={24,34,23,55}
+
+
+a[1] = 34
+....................................
+primitive data types
+1. byte, short, int, long, float, double, boolean, char
+
+reference type
+2. Dog mydog = new Dog();    
+
+mydog.bark();
+mydog.name="Ferry";
